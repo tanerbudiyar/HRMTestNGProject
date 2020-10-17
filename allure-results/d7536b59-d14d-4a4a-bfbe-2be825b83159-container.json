@@ -1,0 +1,1 @@
+{"uuid":"d7536b59-d14d-4a4a-bfbe-2be825b83159","name":"com.qa.orangehrm.tests.LoginPageTest.tearDown","description":"","start":1602799094051,"stop":1602799094224,"children":["117096f9-cd62-4656-8975-e14240188bd0"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1602799094051,"stop":1602799094224}]}
